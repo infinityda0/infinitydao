@@ -1,4 +1,4 @@
-# infinitydao
+# infinitydao - Mintgate hackathon bounty
 Testing implementation of DAO structure to taditional business with some new NFT ideas
 
 # Develop Whitelabel Sites For Aragon DAOs
